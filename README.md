@@ -171,7 +171,7 @@ Your Master Password
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Encrypted-Local-Password-Manager.git
+git clone git clone https://github.com/B0N5S/Encrypted-Local-Password-Manager.git
 cd Encrypted-Local-Password-Manager
 
 # 2. Install dependencies
